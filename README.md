@@ -3,8 +3,9 @@
 Speed is a code editor designed to support:
 
 * fast editing from the keyboard
-* refactoring
+* directory tree projects
 * code search
+* refactoring
 * visualization
 
 
