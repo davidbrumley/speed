@@ -7,5 +7,3 @@ Speed is a code editor designed to support:
 * code search
 * refactoring
 * visualization
-
-
